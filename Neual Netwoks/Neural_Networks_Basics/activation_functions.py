@@ -40,3 +40,6 @@ print(sig(x))
 def tanh(x):
     return np.tanh(x)
 print("Tanh: ",tanh(x))
+
+
+print("git_commit")
